@@ -37,7 +37,7 @@ My current research interests include **Cryptographic Hardware Acceleration** an
 
 **Hankai Liu**, Xiulong Liu, Xin Xie *et al.*
 
-- Introducing IMUs as identity indicators for mmWave sensing systems for lightweight and accurate personalized multi-person tracking.
+- Introducing IMUs as identity indicators into mmWave sensing systems for lightweight and accurate personalized multi-person tracking.
 
 </div>
 </div>
