@@ -27,7 +27,7 @@ I am a member of the research groups led by
 [Prof. Runqi Wang](https://faculty.bjtu.edu.cn/10280/) (王润琪).
 
 My current research interests include **open-vocabulary object detection, continual learning, and prompt-based learning for vision-language models**. 
-As an early-stage researcher, I am actively exploring scalable and robust learning paradigms for open-world perception.
+My long-term research goal is to develop robust and scalable open-world perception systems that can generalize across domains and incremental tasks.
 
 <!-- 📢📢 <span style="color:red;">Our group is seeking research assistants to work on multiple projects related to **Post-quantum Cryptography Chip** and **Encrypted mmWave Sensing**. Drop me an email if you are interested. -->
 
@@ -36,11 +36,11 @@ As an early-stage researcher, I am actively exploring scalable and robust learni
 
 
 # 📘 Selected Publications 
-## 🏃‍♀️ mmWave Sensing
+## 🏃‍♀️ Open-Vocabulary Object Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/hsadino.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection]()
+[Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection](official link coming soon)
 
 **Weihao Cao**, Runqi Wang, Xiaoyue Duan *et al.*
 
@@ -49,7 +49,7 @@ As an early-stage researcher, I am actively exploring scalable and robust learni
 </div>
 </div>
 
-→ [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research)
+<!-- → [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research) -->
 
 <!-- # 📋 Services
 - *2025.11*, TPC Member, TrustCom 2025
@@ -63,14 +63,19 @@ As an early-stage researcher, I am actively exploring scalable and robust learni
 - *COSC0069*, Computer Hardware Fundamentals -->
 
 # 🏆 Honors and Awards
-- *2025.05* Huawei Scholarship
-- *2024.07* Graduated from the 1st National Training for College Cybersecurity Teachers
-- *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
-- *2021.01* Outstanding Graduates of Tianjin University
-- *2020.08* OnMicro Scholarship
+- *2023.05* Third Prize (Beijing Region) of Chinese Collegiate Computer Design Competition ("朔日杯")  
+- *2022.12* National Third Prize of "Strong Nation Cup" Technical Skills Competition (Intelligent Connected Vehicle Application Track)  
+- *2022.05* Provincial Third Prize of Lanqiao Cup C/C++ Programming Competition (Group B)  
+- *2020–2024* Outstanding Student & Academic Scholarship (Four Consecutive Years)
 
 # 🎓 Experiences
-- *2025.07 - Now*, Lecturer, College of Cryptology and Cyber Science, Nankai University
-- *2021.09 - 2025.06*, Ph.D., Tianjin University, Computer Science and Technology
-- *2018.09 - 2021.01*, M.S., Tianjin University, Electronic and Communication Engineering
-- *2014.09 - 2018.06*, B.E., Tianjin University, Internet of Things Engineering
+- *2024.09 – Now* M.S., Artificial Intelligence, Beijing Jiaotong University  
+- *2020.09 – 2024.06* B.E., Software Engineering, Beijing Technology and Business University  
+
+# 🎤 Extracurricular Activities
+- *2023.06* Second Prize, Campus Talent Show  
+- *2022.12* Campus Art Star Award  
+- *2021.12* Third Place, Campus Singing Competition  
+
+
+
