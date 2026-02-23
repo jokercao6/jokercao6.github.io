@@ -18,15 +18,22 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍🎓 About Me
-I am a Lecturer at the [College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/), Nankai University (南开大学密码与网络空间安全学院), China, and a member of the research groups led by [Prof. Zheli Liu](https://cyber.nankai.edu.cn/2021/0323/c13838a551995/page.htm) (刘哲理) and [Prof. Dan Ding](https://cyber.nankai.edu.cn/2021/0323/c13838a569771/page.htm) (丁丹). Prior to this, I earned both my B.E., M.S., and Ph.D. degrees from Tianjin University, China. My Ph.D. research on mmWave sensing and RF security was supervised by [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/index.html) (刘秀龙), and my M.S. research on RF mobile localization was supervised by [Prof. Yongtao Ma](https://faculty.tju.edu.cn/MaYongtao/zh_CN/index.htm) (马永涛).
+I am a Master's student in Computer Science at the Beijing Key Laboratory of Traffic Data Mining and Embodied Intelligence, 
+School of Computer Science and Technology, Beijing Jiaotong University, 
+State Key Laboratory of Advanced Rail Autonomous Operation, China.
 
-My current research interests include **Cryptographic Hardware Acceleration** and **Radio-Frequency Privacy Computing**. I have published over 20 papers at the top-tier international conferences and journals, including ACM IMWUT, IEEE TMC, IEEE TWC, IEEE TAP, etc. I hold several academic positions such as TPC Member of TrustCom 2025 and Workshop Chair of ICA3PP 2023.
+I am a member of the research groups led by 
+[Prof. Liping Jing](https://faculty.bjtu.edu.cn/8249/) (景丽萍) and 
+[Prof. Runqi Wang](https://faculty.bjtu.edu.cn/10280/) (王润琪).
 
-📢📢 <span style="color:red;">Our group is seeking research assistants to work on multiple projects related to **Post-quantum Cryptography Chip** and **Encrypted mmWave Sensing**. Drop me an email if you are interested.
+My current research interests include **open-vocabulary object detection, continual learning, and prompt-based learning for vision-language models**. 
+As an early-stage researcher, I am actively exploring scalable and robust learning paradigms for open-world perception.
+
+<!-- 📢📢 <span style="color:red;">Our group is seeking research assistants to work on multiple projects related to **Post-quantum Cryptography Chip** and **Encrypted mmWave Sensing**. Drop me an email if you are interested. -->
 
 # 🔥 News
-- *2025.04*: Our paper entitled "MHTrack: mmWave-based Mobile Hand Tracking" was accepted by IEEE TMC.
-- *2025.04*: Our paper entitled "Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing" was accepted by IEEE TMC.
+- *2026.02*: Our paper entitled "MHTrack: mmWave-based Mobile Hand Tracking" was accepted by **CVPR (CCF-A)**.
+
 
 # 📘 Selected Publications 
 ## 🏃‍♀️ mmWave Sensing
