@@ -34,7 +34,22 @@ My long-term research goal is to develop robust and scalable open-world percepti
 
 # 📘 Selected Publications 
 ## 🏃‍♀️ Open-Vocabulary Object Detection
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/hsadino.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
+<!-- <img src='images/hsadino.png' alt="sym" width="100%"> -->
+<img
+  src="/assets/images/papers/hsa-dino_teaser.jpg"
+  alt="HSA-DINO teaser"
+  class="paper-thumb js-paper-modal"
+  data-full="/assets/images/papers/hsa-dino_teaser.jpg"
+  data-title="HSA-DINO"
+  data-venue="CVPR 2026 (Accepted)"
+  data-abstract="Open-vocabulary object detection (OVOD) enables models to detect any object category, including unseen ones. Benefiting from large-scale pre-training, existing OVOD methods achieve strong detection performance on general scenarios (e.g., OV-COCO) but suffer severe performance drops when transferred to downstream tasks with substantial domain shifts.
+This degradation stems from the scarcity and weak semantics of category labels in domain-specific task, as well as the inability of existing models to capture auxiliary semantics beyond coarse-grained category label.
+To address these issues, we propose HSA-DINO, a parameter-efficient semantic augmentation framework for enhancing open-vocabulary object detection. Specifically, we propose a multi-scale prompt bank that leverages image feature pyramids to capture hierarchical semantics and select domain-specific local semantic prompts, progressively enriching textual representations from coarse to fine-grained levels.
+Furthermore, we introduce a semantic-aware router that dynamically selects the appropriate semantic augmentation strategy during inference, thereby preventing parameter updates from degrading the generalization ability of the pre-trained OVOD model. We evaluate HSA-DINO on OV-COCO, several vertical domain datasets, and modified benchmark settings.
+The results show that HSA-DINO performs favorably against previous state-of-the-art methods, achieving a superior trade-off between domain adaptability and open-vocabulary generalization."
+/>
+</div></div>
 <div class='paper-box-text' markdown="1">
 [Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection](official link coming soon)
 
