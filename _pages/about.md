@@ -59,6 +59,7 @@ My long-term research goal is to develop robust and scalable open-world percepti
 - *COSC0069*, Computer Hardware Fundamentals -->
 
 # 🏆 Honors and Awards
+- *2025.10* First Prize (Beijing Region), China International College Students' Innovation Competition("中国国际大学生创新大赛")  
 - *2023.05* Third Prize (Beijing Region) of Chinese Collegiate Computer Design Competition ("朔日杯")  
 - *2022.12* National Third Prize of "Strong Nation Cup" Technical Skills Competition (Intelligent Connected Vehicle Application Track)  
 - *2022.05* Provincial Third Prize of Lanqiao Cup C/C++ Programming Competition (Group B)  
