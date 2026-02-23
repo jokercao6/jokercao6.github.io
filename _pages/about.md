@@ -83,6 +83,7 @@ My long-term research goal is to develop robust and scalable open-world percepti
 - *2020.09 – 2024.06* B.E., Software Engineering, Beijing Technology and Business University  
 
 # 🎤 Extracurricular Activities
+- *2025.01* First Prize, College Talent Show
 - *2023.06* Second Prize, Campus Talent Show  
 - *2022.12* Campus Art Star Award  
 - *2021.12* Third Place, Campus Singing Competition  
