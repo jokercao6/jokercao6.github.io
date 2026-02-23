@@ -41,8 +41,8 @@ My long-term research goal is to develop robust and scalable open-world percepti
   alt="HSA-DINO"
   class="paper-thumb js-paper-modal"
   data-full="images/hsadino.png"
-  data-title="HSA-DINO"
-  data-venue="CVPR 2026 (Accepted)"
+  data-title="Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection"
+  data-venue="CVPR 2026"
   data-abstract="Open-vocabulary object detection (OVOD) enables models to detect any object category, including unseen ones. Benefiting from large-scale pre-training, existing OVOD methods achieve strong performance on general scenarios (e.g., OV-COCO) but suffer severe drops under substantial domain shifts. This degradation stems from scarce and weak label semantics in domain-specific tasks, and the inability to capture auxiliary semantics beyond coarse-grained category labels. To address these issues, we propose HSA-DINO, a parameter-efficient semantic augmentation framework. We introduce a multi-scale prompt bank to capture hierarchical semantics and enrich text representations from coarse to fine. We further propose a semantic-aware router to dynamically select augmentation strategies at inference, preserving generalization. Experiments on OV-COCO and multiple vertical domains show favorable performance and a strong trade-off between domain adaptability and open-vocabulary generalization."
 />
 </div></div>
