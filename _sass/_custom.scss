@@ -1,103 +1,103 @@
-/* === Paper Modal (animated card) === */
+/* === Paper Modal (smooth) === */
 
-.paper-modal { display: none; }
-.paper-modal.is-open { display: block; }
-
-.paper-modal__backdrop{
-  position: fixed; inset: 0;
-  background: rgba(0,0,0,.45);
-  z-index: 9998;
-  opacity: 0;
-  transition: opacity .22s ease;
-}
-
-.paper-modal.is-open .paper-modal__backdrop{
-  opacity: 1;
-}
-
-.paper-modal__dialog{
-  position: fixed;
-  left: 50%; top: 50%;
-  transform: translate(-50%, -50%) scale(.96);
-  width: min(1100px, 92vw);
-  height: min(70vh, 680px);
-  background: #fff;
-  border-radius: 18px;
-  z-index: 9999;
-  overflow: hidden;
-  box-shadow: 0 18px 60px rgba(0,0,0,.35);
-  opacity: 0;
-  transition: opacity .22s ease, transform .22s cubic-bezier(.2,.8,.2,1);
-  will-change: transform, opacity;
-}
-
-.paper-modal.is-open .paper-modal__dialog{
-  opacity: 1;
-  transform: translate(-50%, -50%) scale(1);
-}
-
-.paper-modal__close{
-  position: absolute; top: 12px; right: 12px;
-  border: none;
-  background: rgba(0,0,0,.08);
-  border-radius: 12px;
-  padding: 8px 12px;
-  cursor: pointer;
-  z-index: 2;
-}
-
-.paper-modal__content{
-  display: grid;
-  grid-template-columns: 1.25fr 1fr;
-  height: 100%;
-}
-
-.paper-modal__left{
-  background: #0b0b0b;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 18px;
-}
-
-.paper-modal__left img{
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-  border-radius: 12px;
-}
-
-.paper-modal__right{
-  padding: 22px 22px;
-  overflow: auto;
-}
-
-.paper-modal__meta h3{
-  margin: 0;
-  font-size: 1.2rem;
-}
-
-.paper-modal__venue{
-  opacity: .75;
-  margin-top: 6px;
-  margin-bottom: 14px;
-}
-
-.paper-modal__abs{
-  line-height: 1.6;
-  white-space: pre-wrap;
-}
-
-/* Mobile: stack to vertical */
-@media (max-width: 900px){
+.paper-modal{
+    position: fixed;
+    inset: 0;
+    z-index: 9998;
+  
+    /* 默认不可见，但保留在渲染树里才能动画 */
+    visibility: hidden;
+    pointer-events: none;
+  }
+  
+  .paper-modal__backdrop{
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,.45);
+    opacity: 0;
+    transition: opacity .28s ease;
+  }
+  
   .paper-modal__dialog{
-    width: 92vw;
-    height: 82vh;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+  
+    width: min(1100px, 92vw);
+    height: min(70vh, 680px);
+    background: #fff;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 18px 60px rgba(0,0,0,.35);
+  
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(.96);
+    transition: opacity .28s ease, transform .28s cubic-bezier(.2,.8,.2,1);
+    will-change: opacity, transform;
   }
+  
+  .paper-modal.is-open{
+    visibility: visible;
+    pointer-events: auto;
+  }
+  
+  .paper-modal.is-open .paper-modal__backdrop{
+    opacity: 1;
+  }
+  
+  .paper-modal.is-open .paper-modal__dialog{
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  
+  .paper-modal__close{
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    border: none;
+    background: rgba(0,0,0,.08);
+    border-radius: 12px;
+    padding: 8px 12px;
+    cursor: pointer;
+    z-index: 2;
+  }
+  
   .paper-modal__content{
-    grid-template-columns: 1fr;
+    display: grid;
+    grid-template-columns: 1.25fr 1fr;
+    height: 100%;
   }
+  
   .paper-modal__left{
-    max-height: 42vh;
+    background: #0b0b0b;
+    padding: 14px;   /* 缩小一点边距更“填充” */
+    overflow: hidden; /* 关键：允许铺满裁剪 */
+    display: flex;
+    align-items: stretch;
+    justify-content: stretch;
   }
-}
+  
+  .paper-modal__right{
+    padding: 22px;
+    overflow: auto;
+  }
+  
+  .paper-modal__abs{
+    line-height: 1.6;
+    white-space: pre-wrap;
+  }
+  
+  /* Mobile */
+  @media (max-width: 900px){
+    .paper-modal__dialog{ height: 82vh; }
+    .paper-modal__content{ grid-template-columns: 1fr; }
+    .paper-modal__left{ max-height: 42vh; }
+  }
+  
+  /* Respect reduced motion */
+  @media (prefers-reduced-motion: reduce){
+    .paper-modal__backdrop,
+    .paper-modal__dialog{
+      transition: none;
+    }
+  }
