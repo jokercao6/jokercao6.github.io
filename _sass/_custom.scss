@@ -78,8 +78,8 @@
   }
   .paper-modal__left img{
     width: 100%;
-    height: 100%;
-    object-fit: cover;   /* 或 cover，看你喜好 */
+    // height: 100%;
+    object-fit: contain;   /* 或 cover，看你喜好 */
     background: #ffffff;
     border-radius: 12px;
     border: 1px solid #eee;   /* 很淡的边框 */
