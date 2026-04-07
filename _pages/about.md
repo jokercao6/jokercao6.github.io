@@ -49,7 +49,7 @@ My long-term research goal is to develop robust and scalable open-world percepti
 />
 </div></div>
 <div class='paper-box-text' markdown="1">
-[Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection](official link coming soon)
+[Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.04444)
 
 **Weihao Cao<sup>1</sup>**, Runqi Wang<sup>1</sup>, Xiaoyue Duan<sup>2</sup>, Ang Yang<sup>1</sup>, Liping Jing<sup>1</sup> *et al.*
 
