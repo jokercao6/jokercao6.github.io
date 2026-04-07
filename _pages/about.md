@@ -29,7 +29,7 @@ My long-term research goal is to develop robust and scalable open-world percepti
 <!-- 📢📢 <span style="color:red;">Our group is seeking research assistants to work on multiple projects related to **Post-quantum Cryptography Chip** and **Encrypted mmWave Sensing**. Drop me an email if you are interested. -->
 
 # 🔥 News
-- *2026.02*: Our paper entitled "Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection" was accepted by <span style="color:red;"> **CVPR (CCF-A)**.
+- *2026.02*: Our paper entitled "Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection" was accepted by <span style="color:red;"> **CVPR 2026(CCF-A)**.
 
 
 # 📘 Selected Publications 
