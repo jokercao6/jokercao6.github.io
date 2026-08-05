@@ -30,14 +30,12 @@ My long-term research goal is to develop robust and scalable open-world percepti
 
 # 🔥 News
 - *2026.08*: The code for **HSA-DINO** is now publicly available. [[Code]](https://github.com/jokercao6/HSA-DINO)
-- *2026.02*: Our paper entitled "Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection" was accepted by <span style="color:red;"> **CVPR 2026(CCF-A)**.
+- *2026.02*: Our paper entitled **"Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection"**(HSA-DINO) was accepted by <span style="color:red;"> **CVPR 2026(CCF-A)**.
 
 
 # 📘 Selected Publications 
 ## 🏃‍♀️ Open-Vocabulary Object Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
-<!-- <img src='images/hsadino.png' alt="sym" width="100%"> -->
-<!-- alt="HSA-DINO" -->
 <img
   src="images/hsadino.png"
   alt="sym" 
