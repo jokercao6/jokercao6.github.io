@@ -24,7 +24,8 @@ State Key Laboratory of Advanced Rail Autonomous Operation, China.
 
 My research focuses on **open-vocabulary object detection, continual learning, and prompt-based learning for vision-language models**, under the supervision of [Prof. Liping Jing](https://faculty.bjtu.edu.cn/8249/) and [Prof. Runqi Wang](https://faculty.bjtu.edu.cn/10280/).
 
-My long-term research goal is to develop robust and scalable open-world perception systems that generalize across domains and incremental learning settings. 🤝 If you are interested in my research, feel free to get in touch.
+<!-- My long-term research goal is to develop robust and scalable open-world perception systems that generalize across domains and incremental learning settings.  -->
+🤝 If you are interested in my research, feel free to get in touch.
 
 <!-- 📢📢 <span style="color:red;">Our group is seeking research assistants to work on multiple projects related to **Post-quantum Cryptography Chip** and **Encrypted mmWave Sensing**. Drop me an email if you are interested. -->
 
