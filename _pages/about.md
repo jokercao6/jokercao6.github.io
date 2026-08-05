@@ -29,7 +29,7 @@ My long-term research goal is to develop robust and scalable open-world percepti
 <!-- 📢📢 <span style="color:red;">Our group is seeking research assistants to work on multiple projects related to **Post-quantum Cryptography Chip** and **Encrypted mmWave Sensing**. Drop me an email if you are interested. -->
 
 # 🔥 News
-- *2026.08*: Our paper entitled "Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection" was accepted by <span style="color:red;"> **CVPR 2026(CCF-A)**.
+- *2026.08*: The code for **HSA-DINO** is now publicly available. [[Code]](https://github.com/jokercao6/HSA-DINO)
 - *2026.02*: Our paper entitled "Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection" was accepted by <span style="color:red;"> **CVPR 2026(CCF-A)**.
 
 
@@ -50,14 +50,14 @@ My long-term research goal is to develop robust and scalable open-world percepti
 />
 </div></div>
 <div class='paper-box-text' markdown="1">
-**Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection** [**Paper**](https://arxiv.org/abs/2604.04444) | [**Code**](https://github.com/jokercao6/HSA-DINO)
+**Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection** 
 
 **Weihao Cao<sup>1</sup>**, Runqi Wang<sup>1</sup>, Xiaoyue Duan<sup>2</sup>, Ang Yang<sup>1</sup>, Liping Jing<sup>1</sup> *et al.*
 
 <sup>1</sup> Beijing Jiaotong University  
 <sup>2</sup> Pattern Recognition Center, WeChat AI, Tencent
 
-
+[**Paper**](https://arxiv.org/abs/2604.04444) | [**Code**](https://github.com/jokercao6/HSA-DINO)
 <!-- - HSA-DINO: A parameter-efficient semantic augmentation framework that enhances open-vocabulary object detection under domain shifts by leveraging multi-scale prompt banks and a semantic-aware router to balance domain adaptability and open-vocabulary generalization. -->
 
 </div>
