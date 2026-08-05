@@ -54,8 +54,7 @@ My long-term research goal is to develop robust and scalable open-world percepti
 
 **Weihao Cao<sup>1</sup>**, Runqi Wang<sup>1</sup>, Xiaoyue Duan<sup>2</sup>, Ang Yang<sup>1</sup>, Liping Jing<sup>1</sup> *et al.*
 
-<sup>1</sup> Beijing Jiaotong University  
-<sup>2</sup> Pattern Recognition Center, WeChat AI, Tencent
+<sup>1</sup> Beijing Jiaotong University <sup>2</sup> WeChat AI, Tencent
 
 [**Paper**](https://arxiv.org/abs/2604.04444) | [**Code**](https://github.com/jokercao6/HSA-DINO)
 <!-- - HSA-DINO: A parameter-efficient semantic augmentation framework that enhances open-vocabulary object detection under domain shifts by leveraging multi-scale prompt banks and a semantic-aware router to balance domain adaptability and open-vocabulary generalization. -->
