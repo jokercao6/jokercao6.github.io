@@ -122,3 +122,8 @@
 .author__avatar img:hover {
   content: url("/images/wink.jpg");
 }
+
+.author__avatar .u-photo {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
