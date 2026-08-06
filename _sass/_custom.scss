@@ -118,3 +118,7 @@
   html.modal-open {
     overflow: hidden;
   }
+
+.author__avatar img:hover {
+  content: url("/images/wink.jpg");
+}
