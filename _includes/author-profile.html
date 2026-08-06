@@ -5,21 +5,46 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <!-- 提前加载，但不显示 -->
-    <img
-      src="{{ author.avatar_hover }}"
-      alt=""
-      aria-hidden="true"
-      style="display: none;"
-    >
-    <img
-      src="{{ author.avatar | relative_url }}"
-      alt="{{ author.name }}"
-      itemprop="image"
-      class="u-photo"
-      onmouseenter="this.src='{{ '/images/wink.jpg' | relative_url }}'"
-      onmouseleave="this.src='{{ author.avatar | relative_url }}'"
-    >
+    <span style="display: inline-grid;">
+
+      <!-- Hover 图片：提前加载并叠在同一位置 -->
+      <img
+        src="{{ author.avatar_hover | relative_url }}"
+        alt=""
+        aria-hidden="true"
+        class="u-photo"
+        loading="eager"
+        decoding="sync"
+        style="
+          grid-area: 1 / 1;
+          opacity: 0;
+          pointer-events: none;
+        "
+      >
+
+      <!-- 默认头像 -->
+      <img
+        src="{{ author.avatar | relative_url }}"
+        alt="{{ author.name }}"
+        itemprop="image"
+        class="u-photo"
+        loading="eager"
+        decoding="sync"
+        style="
+          grid-area: 1 / 1;
+          opacity: 1;
+        "
+        onmouseenter="
+          this.style.opacity='0';
+          this.previousElementSibling.style.opacity='1';
+        "
+        onmouseleave="
+          this.style.opacity='1';
+          this.previousElementSibling.style.opacity='0';
+        "
+      >
+
+    </span>
   </div>
 
   <div class="author__content">
