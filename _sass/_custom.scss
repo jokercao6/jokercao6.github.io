@@ -119,18 +119,6 @@
     overflow: hidden;
   }
 
-.avatar-swap__default {
-  display: block !important;
-}
-
-.avatar-swap__hover {
-  display: none !important;
-}
-
-.avatar-swap:hover .avatar-swap__default {
-  display: none !important;
-}
-
-.avatar-swap:hover .avatar-swap__hover {
-  display: block !important;
+.author__avatar img:hover {
+  content: url("/images/profile_picture_hover.jpg");
 }

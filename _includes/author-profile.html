@@ -5,21 +5,7 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <div class="avatar-swap">
-      <img
-        src="{{ author.avatar | relative_url }}"
-        alt="{{ author.name }}"
-        itemprop="image"
-        class="u-photo avatar-swap__default"
-      >
-
-      <img
-        src="{{ author.avatar_hover | relative_url }}"
-        alt=""
-        aria-hidden="true"
-        class="avatar-swap__hover"
-      >
-    </div>
+    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
   <div class="author__content">
