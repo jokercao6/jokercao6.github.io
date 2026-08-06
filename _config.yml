@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weihao Cao (曹威昊)"
   avatar           : "images/profile_picture.jpg"
-  avatar_hover     : "images/wink.png"
+  avatar_hover     : "images/wink.jpg"
   bio              : "Master's Student"
   location         : "Beijing, China"
   employer         : "Beijing Jiaotong University"
