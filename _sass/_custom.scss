@@ -119,6 +119,18 @@
     overflow: hidden;
   }
 
-.author__avatar img:hover {
-  content: url("/images/wink.jpg");
+.avatar-swap__default {
+  display: block !important;
+}
+
+.avatar-swap__hover {
+  display: none !important;
+}
+
+.avatar-swap:hover .avatar-swap__default {
+  display: none !important;
+}
+
+.avatar-swap:hover .avatar-swap__hover {
+  display: block !important;
 }
