@@ -7,7 +7,6 @@
   <div class="author__avatar">
     <span style="display: inline-grid;">
 
-      <!-- Hover 图片：提前加载并叠在同一位置 -->
       <img
         src="{{ author.avatar_hover | relative_url }}"
         alt=""
@@ -19,10 +18,10 @@
           grid-area: 1 / 1;
           opacity: 0;
           pointer-events: none;
+          transition: none !important;
         "
       >
 
-      <!-- 默认头像 -->
       <img
         src="{{ author.avatar | relative_url }}"
         alt="{{ author.name }}"
@@ -33,6 +32,7 @@
         style="
           grid-area: 1 / 1;
           opacity: 1;
+          transition: none !important;
         "
         onmouseenter="
           this.style.opacity='0';
