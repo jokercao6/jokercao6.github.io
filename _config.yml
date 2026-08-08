@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weihao Cao (曹威昊)"
+  name             : "Weihao Cao<br>(曹威昊)"
   avatar           : "images/profile_picture.jpg"
   avatar_hover     : "images/wink.jpg"
   bio              : "Master's Student"
