@@ -27,9 +27,9 @@ My research focuses on **open-vocabulary object detection and continual adaptati
 <!-- 📢📢 <span style="color:red;">Our group is seeking research assistants to work on multiple projects related to **Post-quantum Cryptography Chip** and **Encrypted mmWave Sensing**. Drop me an email if you are interested. -->
 
 # 🔥 News
-- *2026.10*: Received the **National Scholarship**.
+- *2026.10*: Received the <span style="color:red;"><strong>National Scholarship</strong></span>.
 - *2026.08*: The code for **HSA-DINO** is now publicly available. [[Code]](https://github.com/jokercao6/HSA-DINO)
-- *2026.02*: Our paper entitled **"Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection"**(HSA-DINO) was accepted by <span style="color:red;"> **CVPR 2026(CCF-A)**.
+- *2026.02*: Our paper entitled **"Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection"**(HSA-DINO) was accepted by <span style="color:red;"><strong>CVPR 2026 (CCF-A)</strong></span>.
 
 
 # 📘 Selected Publications 
@@ -73,7 +73,7 @@ My research focuses on **open-vocabulary object detection and continual adaptati
 - *COSC0069*, Computer Hardware Fundamentals -->
 
 # 🏆 Honors and Awards
-- *2026.10* Received the **National Scholarship**.
+- *2026.10* Received the **National Scholarship**
 - *2025.10* **First Prize** (Beijing Region), China International College Students' Innovation Competition("中国国际大学生创新大赛")  
 - *2023.05* Third Prize (Beijing Region) of Chinese Collegiate Computer Design Competition ("朔日杯")  
 - *2022.12* National Third Prize of "Strong Nation Cup" ("强国杯") Technical Skills Competition (Intelligent Connected Vehicle Application Track)  
