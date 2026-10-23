@@ -22,7 +22,7 @@ I am a Master's student in Computer Science at the Beijing Key Laboratory of Tra
 School of Computer Science and Technology, Beijing Jiaotong University, 
 State Key Laboratory of Advanced Rail Autonomous Operation, China.
 
-My research focuses on **open-vocabulary object detection, continual learning, and prompt-based learning for vision-language models**, under the supervision of [Prof. Liping Jing](https://faculty.bjtu.edu.cn/8249/) and [Prof. Runqi Wang](https://faculty.bjtu.edu.cn/10280/).
+My research focuses on **open-vocabulary object detection and continual adaptation of vision-language models**, under the supervision of [Prof. Liping Jing](https://faculty.bjtu.edu.cn/8249/) and [Prof. Runqi Wang](https://faculty.bjtu.edu.cn/10280/).
 
 <!-- My long-term research goal is to develop robust and scalable open-world perception systems that generalize across domains and incremental learning settings.  -->
 🤝 If you are interested in my research, feel free to get in touch.
@@ -30,6 +30,7 @@ My research focuses on **open-vocabulary object detection, continual learning, a
 <!-- 📢📢 <span style="color:red;">Our group is seeking research assistants to work on multiple projects related to **Post-quantum Cryptography Chip** and **Encrypted mmWave Sensing**. Drop me an email if you are interested. -->
 
 # 🔥 News
+- *2026.10*: Received the **National Scholarship**.
 - *2026.08*: The code for **HSA-DINO** is now publicly available. [[Code]](https://github.com/jokercao6/HSA-DINO)
 - *2026.02*: Our paper entitled **"Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection"**(HSA-DINO) was accepted by <span style="color:red;"> **CVPR 2026(CCF-A)**.
 
@@ -75,7 +76,8 @@ My research focuses on **open-vocabulary object detection, continual learning, a
 - *COSC0069*, Computer Hardware Fundamentals -->
 
 # 🏆 Honors and Awards
-- *2025.10* First Prize (Beijing Region), China International College Students' Innovation Competition("中国国际大学生创新大赛")  
+- *2026.10* Received the **National Scholarship**.
+- *2025.10* **First Prize** (Beijing Region), China International College Students' Innovation Competition("中国国际大学生创新大赛")  
 - *2023.05* Third Prize (Beijing Region) of Chinese Collegiate Computer Design Competition ("朔日杯")  
 - *2022.12* National Third Prize of "Strong Nation Cup" ("强国杯") Technical Skills Competition (Intelligent Connected Vehicle Application Track)  
 <!-- - *2022.05* Provincial Third Prize of Lanqiao Cup C/C++ Programming Competition (Group B)   -->
