@@ -18,10 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍🎓 About Me
-I am a Master's student in Computer Science at the Beijing Key Laboratory of Traffic Data Mining and Embodied Intelligence, 
-School of Computer Science and Technology, Beijing Jiaotong University, 
-State Key Laboratory of Advanced Rail Autonomous Operation, China.
-
+I am a Master's student in artificial intelligence at the Beijing Jiaotong University, China.
 My research focuses on **open-vocabulary object detection and continual adaptation of vision-language models**, under the supervision of [Prof. Liping Jing](https://faculty.bjtu.edu.cn/8249/) and [Prof. Runqi Wang](https://faculty.bjtu.edu.cn/10280/).
 
 <!-- My long-term research goal is to develop robust and scalable open-world perception systems that generalize across domains and incremental learning settings.  -->
